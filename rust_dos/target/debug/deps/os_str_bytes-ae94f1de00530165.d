@@ -1,0 +1,10 @@
+/Users/frankmancia/Documents/GitHub/rust_dos/rust_dos/target/debug/deps/os_str_bytes-ae94f1de00530165.rmeta: /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/lib.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/mod.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/raw.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/iter.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/pattern.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/raw_str.rs
+
+/Users/frankmancia/Documents/GitHub/rust_dos/rust_dos/target/debug/deps/os_str_bytes-ae94f1de00530165.d: /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/lib.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/mod.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/raw.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/iter.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/pattern.rs /Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/raw_str.rs
+
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/lib.rs:
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/mod.rs:
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/common/raw.rs:
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/iter.rs:
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/pattern.rs:
+/Users/frankmancia/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.3.0/src/raw_str.rs:
