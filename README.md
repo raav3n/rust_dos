@@ -1,2 +1,5 @@
 # rust_dos
- dns packet flood in rust 
+Floods ip with udp packets (repeats "pog")
+
+### Future Plans
+Add DNS Amplification attack
